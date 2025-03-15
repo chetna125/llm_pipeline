@@ -1,6 +1,6 @@
-gcp_project_id = "crack-walker-453805-g7"
+gcp_project_id = "your_project_id"
 gcp_region = "us-central1"
-azure_subscription_id = "df9f7038-be74-41ac-bd70-423a77d44969"
+azure_subscription_id = "your_subscription_id"
 openstack_auth_url = "http://your-openstack-auth-url"
 openstack_username = "your-username"
 openstack_password = "your-password"
